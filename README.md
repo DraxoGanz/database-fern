@@ -2,8 +2,8 @@
 ```csharp
 -------------------------
 LOGIN SCRIPT FERN MD
-USERNAME: admin
-PASSWORD: admin123
+USERNAME: draxo
+PASSWORD: draxo123
 -------------------------
 ```
 ***© 2025 Draxo. All rights reserved***
